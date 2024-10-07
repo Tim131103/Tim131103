@@ -17,11 +17,11 @@ Welcome to my digital playground where creativity meets technology!
 - Anything that pushes the boundaries of creativity
 
 ## 📫 How to Reach Me
-- [Your Email]
-- [Your LinkedIn/Twitter]
+- [tim131103@gmail.com]
+- [Tim131103/Tim Lietzow]
 
 ## 😄 Pronouns
-- [Your Pronouns]
+- [He/Him]
 
 ## ⚡ Fun Fact
 I believe that every great idea starts with a bit of curiosity and a whole lot of code!
